@@ -3,7 +3,7 @@
 > a case study on classifying surface defects in hot-rolled steel strips
 
 https://towardsdatascience.com/deep-learning-computer-vision-and-automated-optical-inspection-774e8ca529d3
-    - https://www.intel.com/content/www/us/en/developer/articles/technical/use-machine-learning-to-detect-defects-on-the-steel-surface.html
+- https://www.intel.com/content/www/us/en/developer/articles/technical/use-machine-learning-to-detect-defects-on-the-steel-surface.html
 
 **Automated Optical Inspection** is commonly used in electronics industry and manufacturing industry to detect defects in products or components during production. Conceptually, common practices in deep learning for image classification, object detection, and semantic segmentation could be all applied to Automated Optical Inspection. Figure 1 shows some common tasks in image recognition and Figure 2 shows some examples of surface defects in steel parts for cross reference.
 
