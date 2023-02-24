@@ -109,6 +109,9 @@
 
 ![image](https://user-images.githubusercontent.com/16224205/220958488-1f599e28-7879-4d57-8a3e-0a3e1c747d32.png)
 
+### 12. Severstal stell defect
+https://www.kaggle.com/c/severstal-steel-defect-detection
+
 ### Reference
 - https://github.com/Eatzhy/Surface-defect-Detection-dataset
 - https://blog.csdn.net/qq_27871973/article/details/84974231
