@@ -115,4 +115,5 @@ https://www.kaggle.com/c/severstal-steel-defect-detection
 ### Reference
 - https://github.com/Eatzhy/Surface-defect-Detection-dataset
 - https://blog.csdn.net/qq_27871973/article/details/84974231
+- https://github.com/Charmve/Surface-Defect-Detection
 
