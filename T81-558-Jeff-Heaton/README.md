@@ -1,2 +1,0 @@
-- https://sites.wustl.edu/jeffheaton/t81-558/
-- https://github.com/jeffheaton/t81_558_deep_learning
